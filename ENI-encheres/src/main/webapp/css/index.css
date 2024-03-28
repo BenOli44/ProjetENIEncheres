@@ -1,0 +1,44 @@
+.banniere {
+	margin: 0.3em;
+}
+
+.banniere a {
+	padding: 0.3em;
+}
+
+h2 {
+	text-align: center;
+}
+
+.articles {
+	margin-left: 5em;
+}
+
+.filtres {
+	margin-left: 5em;
+}
+
+
+
+.categorie {
+	width: 100%;
+	max-width: 250px;
+	box-sizing: border-box;
+}
+
+#submit {
+	width: 20vw;
+	height:10vh;
+}
+
+.image {
+	margin: 0.8em;
+}
+
+.article {
+	margin-bottom: 0.5em;	
+	margin-top:0.5em;
+}
+.texte_article {	
+	margin-left: 0.5em;
+}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body {
+    background-color: #f1f1f1;
+}
+.card {
+    background-color: #f1f1f1;
+}
+.btn-primary {
+    padding:10px;
+    font-weight: 300;
+    border-radius: 10px;
+    outline:none;
+    border: none;
+    cursor:pointer;
+    position:relative;
+    box-shadow: 0px 6px  #013b8f;
+}
+
+.btn-primary:hover{
+    box-shadow: 0px 4px #013b8f;
+    top: 2px;
+}
+
+.btn-primary:active{
+    box-shadow: 0px 0px #4E5157;
+    top: 6px ;
+}
